@@ -35,8 +35,8 @@ A simple blogging platform that allows users to create, edit, and delete blog po
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/imabutahersiddik/blogging-platform.git
-   cd blogging-platform
+   git clone https://github.com/imabutahersiddik/Neon-Blogging-Platform-Starter-Kit.git
+   cd Neon-Blogging-Platform-Starter-Kit
    ```
 
 2. **Install Dependencies**:
